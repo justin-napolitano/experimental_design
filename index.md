@@ -1,12 +1,27 @@
 ---
-slug: "github-experimental-design"
-title: "experimental_design"
-repo: "justin-napolitano/experimental_design"
-githubUrl: "https://github.com/justin-napolitano/experimental_design"
-generatedAt: "2025-11-23T08:55:30.834633Z"
-source: "github-auto"
+slug: github-experimental-design
+title: Experimental Design Analysis Using SAS Scripts for Factorial and Repeated Measures Data
+repo: justin-napolitano/experimental_design
+githubUrl: https://github.com/justin-napolitano/experimental_design
+generatedAt: '2025-11-23T08:55:30.834633Z'
+source: github-auto
+summary: >-
+  Technical overview of SAS scripts for analyzing experimental design data with generalized linear
+  models, data simulation, contrasts, and diagnostics.
+tags:
+  - sas
+  - experimental-design
+  - statistical-modeling
+  - factorial-design
+  - data-simulation
+seoPrimaryKeyword: experimental design sas scripts
+seoSecondaryKeywords:
+  - generalized linear models
+  - factorial design
+  - data simulation
+  - statistical diagnostics
+seoOptimized: true
 ---
-
 
 # Experimental Design SAS Scripts: Technical Overview
 
