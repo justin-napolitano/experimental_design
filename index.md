@@ -21,6 +21,14 @@ seoSecondaryKeywords:
   - data simulation
   - statistical diagnostics
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on data analysis workflows involving experimental design, data simulation,
+  statistical modeling with SAS scripts, and generating diagnostic plots. This aligns closely with
+  the 'Datascience' family, which covers data analysis projects, simulations, and scientific data
+  workflows. Other families like automation or devtools do not match the core content, which is
+  centered on statistical analysis and data workflows.
 ---
 
 # Experimental Design SAS Scripts: Technical Overview
@@ -72,3 +80,4 @@ This project demonstrates a methodical approach to experimental design analysis 
 ---
 
 *This document is intended as a technical reference for developers and analysts revisiting the project.*
+
