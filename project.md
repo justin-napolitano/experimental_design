@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/experimental_design
 generatedAt: '2025-11-24T21:34:44.281Z'
 source: github-auto
 summary: >-
-  Explore SAS scripts for statistical modeling and analysis of treatment effects
-  using generalized linear models and factorial design.
+  Explore SAS scripts for statistical modeling and analysis of treatment effects using generalized
+  linear models and factorial design.
 tags:
   - sas
   - statistical modeling
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - experimental design data
   - sas scripts for analysis
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -84,3 +84,4 @@ cd experimental_design
 ---
 
 *Note: This README is based on available code and inferred project scope.*
+
