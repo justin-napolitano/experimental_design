@@ -1,20 +1,29 @@
 ---
 slug: github-experimental-design
 id: github-experimental-design
-title: experimental_design
+title: SAS Scripts for Experimental Design Analysis
 repo: justin-napolitano/experimental_design
 githubUrl: https://github.com/justin-napolitano/experimental_design
 generatedAt: '2025-11-24T21:34:44.281Z'
 source: github-auto
 summary: >-
-  This repository contains SAS scripts for analyzing experimental design data,
-  focusing on statistical modeling and analysis of treatment effects. It
-  includes projects that demonstrate the use of generalized linear models and
-  factorial design analysis.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore SAS scripts for analyzing experimental design data using generalized
+  linear models and generating PDF reports.
+tags:
+  - sas
+  - statistical modeling
+  - generalized linear models
+  - experimental design
+  - data analysis
+  - report generation
+seoPrimaryKeyword: sas experimental design analysis
+seoSecondaryKeywords:
+  - generalized linear models
+  - factorial design analysis
+  - SAS ODS reports
+  - data simulation
+  - treatment effects analysis
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
