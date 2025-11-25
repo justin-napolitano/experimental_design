@@ -1,34 +1,44 @@
 ---
 slug: github-experimental-design
-title: Experimental Design Analysis Using SAS Scripts for Factorial and Repeated Measures Data
+title: Technical Overview of Experimental Design SAS Scripts
 repo: justin-napolitano/experimental_design
 githubUrl: https://github.com/justin-napolitano/experimental_design
 generatedAt: '2025-11-23T08:55:30.834633Z'
 source: github-auto
 summary: >-
-  Technical overview of SAS scripts for analyzing experimental design data with generalized linear
-  models, data simulation, contrasts, and diagnostics.
+  Explore SAS scripts for analyzing experimental design data using generalized
+  linear models and factorial design methods.
 tags:
   - sas
   - experimental-design
   - statistical-modeling
   - factorial-design
   - data-simulation
-seoPrimaryKeyword: experimental design sas scripts
-seoSecondaryKeywords:
+  - experimental design
+  - statistical modeling
+  - data visualization
   - generalized linear models
   - factorial design
   - data simulation
-  - statistical diagnostics
+seoPrimaryKeyword: experimental design sas scripts
+seoSecondaryKeywords:
+  - sas statistical analysis
+  - repeated measures analysis
+  - factorial experimental data
+  - model diagnostics
+  - treatment effect evaluation
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses on data analysis workflows involving experimental design, data simulation,
-  statistical modeling with SAS scripts, and generating diagnostic plots. This aligns closely with
-  the 'Datascience' family, which covers data analysis projects, simulations, and scientific data
-  workflows. Other families like automation or devtools do not match the core content, which is
-  centered on statistical analysis and data workflows.
+  The post focuses on data analysis workflows involving experimental design,
+  data simulation, statistical modeling with SAS scripts, and generating
+  diagnostic plots. This aligns closely with the 'Datascience' family, which
+  covers data analysis projects, simulations, and scientific data workflows.
+  Other families like automation or devtools do not match the core content,
+  which is centered on statistical analysis and data workflows.
+kind: project
+id: github-experimental-design
 ---
 
 # Experimental Design SAS Scripts: Technical Overview
